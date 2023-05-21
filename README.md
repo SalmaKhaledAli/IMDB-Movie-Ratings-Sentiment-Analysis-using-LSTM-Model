@@ -1,4 +1,4 @@
-# IMDB-Movie-Ratings-Sentiment-Analysys-using-LSTM-Model
+# IMDB-Movie-Ratings-Sentiment-Analysis-using-LSTM-Model
 
 In this task, I utilized the IMDB Movie rating sentiment analysis dataset. The dataset underwent preprocessing steps to enhance its quality. These steps included the removal of stopwords, punctuations, and digits, as well as converting the words to lowercase and applying lemmatization using the NLTK Library.
 
